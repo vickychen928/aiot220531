@@ -4,7 +4,7 @@
 #### Author: Vicky Chen 
 
 
-### step 0：
+### step 0：register and download
  * 註冊Heroku, github
  * 下載HeidiSQL, VS code
 
