@@ -39,7 +39,7 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 * 查看剛剛建立的heroku postgredb的Credentials\
 (點擊resource --> 剛剛建立好的heroku postgredb --> Settings --> View Credentials...)
 
-![](./static/db_credential.png)
+![](./static/hedisql.png)
 
 * 使用hedisql輸入上面的資料庫資訊連接heroku postgredb
 
