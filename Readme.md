@@ -67,6 +67,9 @@ delete .git and git remote add origin master github.com/xxxxx
 
 
 ### step 9: Heroku deploy from github
+* https://aiot220531.herokuapp.com/ \
+(aiot220531是step 3建立的Heroku app名稱)
+
 
 ### step 10: Complete
 
