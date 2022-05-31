@@ -17,15 +17,8 @@
 
 ### step 2 : install some package
 ```python
-pip insall gunicorn   
-Flask==2.0.1 
-Jinja2==3.0.1 
-psycopg2 
-sklearn 
-pandas  
-numpy 
+pip install gunicorn Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas numpy 
 ```
-
 
 ### step 3: add an heroku postgredb
 * register heroku account
@@ -41,7 +34,6 @@ myuser="<fill-in-Heroku-Postgredb-DB-user>"
 mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
 mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ```
-
 
 ### step 5: import postgredb (in db/postgre.db)
 
