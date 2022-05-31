@@ -43,7 +43,7 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 
 ### step 6: setting db in app.py
-將下方資訊換成postgredb的資訊
+* 將app.py中資料庫的資訊換成postgredb的資訊
 ```sql
 myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
 myuser="<fill-in-Heroku-Postgredb-DB-user>"
