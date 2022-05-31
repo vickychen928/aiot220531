@@ -35,7 +35,13 @@ myuser="<fill-in-Heroku-Postgredb-DB-user>"
 mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
 mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ```
-* 使用hedisql連接heroku postgredb
+
+* 查看剛剛建立的heroku postgredb的Credentials\
+(點擊resource --> 剛剛建立好的heroku postgredb --> Settings --> View Credentials...)
+
+![](static%5Cdb_credential.png)
+
+* 使用hedisql輸入上面的資料庫資訊連接heroku postgredb
 
 ![](./static/hedisql.png)
 
