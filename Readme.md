@@ -35,7 +35,7 @@ myuser="<fill-in-Heroku-Postgredb-DB-user>"
 mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
 mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ```
-* 使用hedisql連接heroku postgredb
+* 使用hedisql連接heroku postgredb\
 ![](./static/cat.jpg)
 
 
