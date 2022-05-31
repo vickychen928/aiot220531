@@ -47,8 +47,7 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 
 ### step 5: import postgredb (in db/postgre.db)
-
-
+* 選擇public資料庫，接下來點擊左上方檔案 --> 載入SQL檔案 --> 匯入postgre.db
 
 
 ### step 6: setting db in app.py
