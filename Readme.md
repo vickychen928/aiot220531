@@ -10,9 +10,8 @@
 
 ### step 1 : Clone this github
 * git clone https://github.com/huanchen1107/aiot0530-start-no-token 到 local\aiot220531 folder
-    * 把local的 \aiot220531\ .git 殺掉 (產生自己的git管理員) 方便建立新的git repository 
-    * 推送至github 建立新的 aiot220531
-    https://github.com/vickychen928/aiot0531
+* 把local的 \aiot220531\ .git 殺掉 (產生自己的git管理員) 方便建立新的git repository 
+* 推送至github 建立新的aiot220531 (https://github.com/vickychen928/aiot220531)
 
 
 ### step 2 : install some package
