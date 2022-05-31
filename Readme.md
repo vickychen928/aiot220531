@@ -4,8 +4,8 @@
 #### Author: Vicky Chen 
 
 
-### step 0:
-    * 註冊 Heroku, github 請下載 HeidiSQL, VS code
+### step 0：
+ * 註冊 Heroku, github 請下載 HeidiSQL, VS code
 
 
 ### step 1 : Clone this github
