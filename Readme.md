@@ -81,6 +81,6 @@ Sample link 2:
 https://aiot0529.herokuapp.com/
 
 
-![](./static/highcharts.jpg)
+![](./static/highcharts.png)
 
 
