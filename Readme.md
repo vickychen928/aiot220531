@@ -29,7 +29,7 @@ pip install gunicorn Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas numpy
 * go to resource and add-on an Heroku postgredb
 
 
-### step 4: login to heroku pstgredb using HeidiSQL
+### step 4: login to heroku postgredb using HeidiSQL
 ```sql
 myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
 myuser="<fill-in-Heroku-Postgredb-DB-user>"
@@ -43,7 +43,7 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 
 ### step 6: setting db in app.py
-* 將app.py中資料庫的資訊換成postgredb的資訊
+* 將app.py中資料庫的資訊換成heroku postgredb的資訊
 ```sql
 myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
 myuser="<fill-in-Heroku-Postgredb-DB-user>"
@@ -70,6 +70,6 @@ Sample link 2:
 https://aiot0529.herokuapp.com/
 
 
-![](cat.jpg)
+![](./static/cat.jpg)
 
 
