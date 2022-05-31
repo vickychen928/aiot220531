@@ -37,7 +37,7 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ```
 
 * 查看剛剛建立的heroku postgredb的Credentials\
-(點擊resource --> 剛剛建立好的heroku postgredb --> Settings --> View Credentials...)
+(dashboard點擊resource --> 剛剛建立好的heroku postgredb --> Settings --> View Credentials...)
 
 ![](./static/db_credential.png)
 
@@ -67,6 +67,7 @@ delete .git and git remote add origin master github.com/xxxxx
 
 
 ### step 9: Heroku deploy from github
+* dashboard點擊deploys --> Deployment method選擇github --> Enable Automatic Deploys --> Manual deploy點擊Deploy branch
 * https://aiot220531.herokuapp.com/ \
 (aiot220531是step 3建立的Heroku app名稱)
 
@@ -80,6 +81,6 @@ Sample link 2:
 https://aiot0529.herokuapp.com/
 
 
-![](./static/cat.jpg)
+![](./static/highcharts.jpg)
 
 
