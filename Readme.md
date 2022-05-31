@@ -36,7 +36,7 @@ mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
 mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ```
 * 使用hedisql連接heroku postgredb
-![](./static/hedisql.png)
+    ![](./static/hedisql.png)
 
 
 ### step 5: import postgredb (in db/postgre.db)
