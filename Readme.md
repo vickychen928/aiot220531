@@ -68,7 +68,7 @@ delete .git and git remote add origin master github.com/xxxxx
 
 ### step 9: Heroku deploy from github
 * dashboard點擊deploys --> Deployment method選擇github --> Enable Automatic Deploys --> Manual deploy點擊Deploy branch
-* 產生的網站：https://aiot220531.herokuapp.com/ \
+* 產生的網站: https://aiot220531.herokuapp.com/ \
 (aiot220531是step 3建立的Heroku app名稱)
 
 
@@ -80,7 +80,7 @@ https://awinlab-aiot.herokuapp.com/
 Sample link 2: 
 https://aiot0529.herokuapp.com/
 
-剛剛產生的網站：https://aiot220531.herokuapp.com/ 
+剛剛產生的網站: https://aiot220531.herokuapp.com/ 
 
 ![](./static/highcharts.png)
 
