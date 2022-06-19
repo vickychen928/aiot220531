@@ -60,7 +60,7 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"          #mydb="d1ni7racd5m576"
 
 
 ### step 7: testing locally by running python app.py
-* `ctrl` + ``\` 呼叫終端機，並輸入python app.py執行程式
+* `ctrl` + ` 呼叫終端機，並輸入python app.py執行程式
 
 ![](static/app_py_highcharts.png)
 
