@@ -83,7 +83,7 @@ https://awinlab-aiot.herokuapp.com/
 Sample link 2: 
 https://aiot0529.herokuapp.com/
 
-剛剛產生的網站: https://aiot220531.herokuapp.com/ 
+my link: https://aiot220531.herokuapp.com/ 
 
 ![](./static/heroku_highcharts.png)
 
