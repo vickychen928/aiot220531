@@ -85,6 +85,6 @@ https://aiot0529.herokuapp.com/
 
 剛剛產生的網站: https://aiot220531.herokuapp.com/ 
 
-![](./static/highcharts_v2.png)
+![](./static/heroku_highcharts.png)
 
 
