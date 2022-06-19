@@ -55,7 +55,7 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ```sql
 myserver ="<fill-in-Heroku-Postgredb-DB-sever>"  #myserver ="ec2-3-223-213-207.compute-1.amazonaws.com"
 myuser="<fill-in-Heroku-Postgredb-DB-user>"      #myuser="xtzgbtxmwtqhvo"
-mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"    #mypassword="ad1fcccd6225b92c2febddf82ee7e41ed75b8fca2f2fdcf920d38344dd5fc57a"
+mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"   #mypassword="ad1fcccd6225b92c2febddf82ee7e41ed75b8fca2f2fdcf920d38344dd5fc57a"
 mydb="<fill-in-Heroku-Postgredb-DB-db>"          #mydb="d1ni7racd5m576"
 ```
 
