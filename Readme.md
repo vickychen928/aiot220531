@@ -48,6 +48,8 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ### step 5: import postgredb (in db/postgre.db)
 * 選擇public資料庫，接下來點擊左上方檔案 --> 載入SQL檔案 --> 匯入postgre.db (檔案在db/postgre.db)
 
+![](static/postgre_db.png)
+
 
 ### step 6: setting db in app.py
 * 將app.py中資料庫的資訊換成heroku postgredb的資訊 (角括號不用留)
