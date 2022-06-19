@@ -89,5 +89,5 @@ my link: https://aiot220531.herokuapp.com/
 
 ![](./static/heroku_highcharts.png)
 
-(補)gif動圖
+(補) gif動圖
 ![](static/highcharts.gif)
