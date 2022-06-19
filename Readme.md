@@ -47,14 +47,14 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 
 ### step 5: import postgredb (in db/postgre.db)
-* 選擇public資料庫，接下來點擊左上方檔案 --> 載入SQL檔案 --> 匯入postgre.db
+* 選擇public資料庫，接下來點擊左上方檔案 --> 載入SQL檔案 --> 匯入postgre.db (檔案在db/postgre.db)
 
 
 ### step 6: setting db in app.py
-* 將app.py中資料庫的資訊換成heroku postgredb的資訊
+* 將app.py中資料庫的資訊換成heroku postgredb的資訊 (角括號不用留)
 ```sql
-myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
-myuser="<fill-in-Heroku-Postgredb-DB-user>"
+myserver ="<fill-in-Heroku-Postgredb-DB-sever>"  #myserver ="ec2-3-223-213-207.compute-1.amazonaws.com"
+myuser="<fill-in-Heroku-Postgredb-DB-user>"  #myuser="xtzgbtxmwtqhvo"
 mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
 mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ```
@@ -68,7 +68,7 @@ delete .git and git remote add origin master github.com/xxxxx
 
 ### step 9: Heroku deploy from github
 * dashboard點擊deploys --> Deployment method選擇github --> Enable Automatic Deploys --> Manual deploy點擊Deploy branch
-* https://aiot220531.herokuapp.com/ \
+* 產生的網站：https://aiot220531.herokuapp.com/ \
 (aiot220531是step 3建立的Heroku app名稱)
 
 
@@ -80,6 +80,7 @@ https://awinlab-aiot.herokuapp.com/
 Sample link 2: 
 https://aiot0529.herokuapp.com/
 
+剛剛產生的網站：https://aiot220531.herokuapp.com/ 
 
 ![](./static/highcharts.png)
 
