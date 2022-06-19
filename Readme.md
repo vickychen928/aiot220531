@@ -89,4 +89,4 @@ my link: https://aiot220531.herokuapp.com/
 
 ![](./static/heroku_highcharts.png)
 
-
+![](static/highcharts.gif)
