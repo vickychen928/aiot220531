@@ -14,7 +14,6 @@
 * 把local的 \aiot220531\ .git 殺掉 (產生自己的git管理員) 方便建立新的git repository 
 * 推送至github建立新的aiot220531 (https://github.com/vickychen928/aiot220531)
 
-
 ### step 2 : install some package
 ```python
 pip install gunicorn Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas numpy 
@@ -55,12 +54,15 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ```sql
 myserver ="<fill-in-Heroku-Postgredb-DB-sever>"  #myserver ="ec2-3-223-213-207.compute-1.amazonaws.com"
 myuser="<fill-in-Heroku-Postgredb-DB-user>"      #myuser="xtzgbtxmwtqhvo"
-mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"   #mypassword="ad1fcccd6225b92c2febddf82ee7e41ed75b8fca2f2fdcf920d38344dd5fc57a"
+mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"    #mypassword="ad1fcccd6225b92c2febddf82ee7e41ed75b8fca2f2fdcf920d38344dd5fc57a"
 mydb="<fill-in-Heroku-Postgredb-DB-db>"          #mydb="d1ni7racd5m576"
 ```
 
 
 ### step 7: testing locally by running python app.py
+* ctrl + ` 呼叫終端機，並輸入python app.py執行程式
+![](static/app_py_highcharts.png)
+
 
 ### step 8: deploy to github (new public github repositoy 不然看不到)
 delete .git and git remote add origin master github.com/xxxxx
@@ -82,6 +84,6 @@ https://aiot0529.herokuapp.com/
 
 剛剛產生的網站: https://aiot220531.herokuapp.com/ 
 
-![](./static/highcharts.png)
+![](./static/highcharts_v2.png)
 
 
